@@ -1,0 +1,9 @@
+# Use the existing CUDA environment at ../../work/.venv-gpu.
+# Exact inherited environment is recorded in environment_v5.txt.
+torch==2.5.1+cu121
+numpy==2.4.4
+Pillow==12.1.1
+pandas==2.2.3
+scipy==1.17.1
+scikit-image==0.26.0
+opencv-python==4.13.0.92
