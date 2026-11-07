@@ -1,0 +1,7 @@
+# CUDA Torch/torchvision are installed by setup.ps1 or inherited read-only.
+numpy==2.4.4
+Pillow==12.1.1
+pandas==2.2.3
+pytest==8.3.5
+scipy==1.17.1
+scikit-image==0.26.0
